@@ -3,7 +3,7 @@
 ## Overview:
 This project is a web-based application that allows users to upload images and automatically detect faces, emotions, estimated age, and gender in those images using advanced deep learning models. The integration of Flask, OpenCV, and FER provides a simple yet effective solution for these tasks.
 
-![Project Overview](uploads/result_kia.jpg)
+![Project Overview](Face Detection/uploads/result_kia.jpg)
 
 ## Tools Used:
 
@@ -15,7 +15,7 @@ This project is a web-based application that allows users to upload images and a
 
 ## Key Features:
 
-![Project Overview](uploads/overview.png)
+![Project Overview](Face Detection/uploads/overview.png)
 
 ### **File Upload:**
 Users can upload images in formats like PNG, JPG, JPEG, and GIF through a user-friendly interface.
