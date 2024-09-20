@@ -15,7 +15,7 @@ This project is a web-based application that allows users to upload images and a
 
 ## Key Features:
 
-![Project Overview](Face Detection/uploads/overview.png)
+![Project Overview](Face%20Detection/uploads/overview.png)
 
 ### **File Upload:**
 Users can upload images in formats like PNG, JPG, JPEG, and GIF through a user-friendly interface.
